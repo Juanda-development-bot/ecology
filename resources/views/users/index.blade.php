@@ -13,7 +13,7 @@
 <div class="row">
     <div class="col-lg-12 margin-tb">
         <div class="pull-left">
-            <h2 align="center">Lista De Usuarios</h2>
+            <h2 align="center">Lista De Users</h2>
         </div>
     </div>
     <li class="nav-item">
